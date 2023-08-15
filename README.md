@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Food Traceability App is a decentralized application (DApp) that utilizes Ethereum smart contracts to showcase the traceability of food products along the supply chain. The app allows users to add food products, register vendors, and verify vendor information on the blockchain.
+The Food Traceability App is a decentralized application (DApp) that utilizes Ethereum smart contracts to showcase the traceability of food products along the supply chain. The app allows users to add food products, register vendors, and verify vendor information on the blockchain. Discover how blockchain can revolutionize the way we track and verify the journey of food products from producers to consumers.
 
 ## Features
 
