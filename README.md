@@ -1,6 +1,6 @@
 # Food Traceability App
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://i.imgur.com/FcVLaUS.png)
 
 ## Overview
 
@@ -43,13 +43,11 @@ The Food Traceability App is a decentralized application (DApp) that utilizes Et
 cd food-traceability
 npm i
 ```
-
 3. Start the development server:
 
 ```bash
 npm start
 ```
-
 4. Make sure you have MetaMask or another Ethereum wallet extension installed in your browser.
 
 5. Connect to the Mumbai testnet on MetaMask to interact with the app.
