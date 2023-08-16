@@ -238,14 +238,17 @@ const App = () => {
               <Form.Label>Product Name</Form.Label>
               <Form.Control type="text" value={productName} onChange={(e) => setProductName(e.target.value)} />
             </Form.Group>
+  
             <Form.Group controlId="producer">
               <Form.Label>Producer</Form.Label>
               <Form.Control type="text" value={producer} onChange={(e) => setProducer(e.target.value)} />
             </Form.Group>
+  
             <Form.Group controlId="platforms">
               <Form.Label>Platforms (comma-separated)</Form.Label>
               <Form.Control type="text" value={platforms} onChange={(e) => setPlatforms(e.target.value)} />
             </Form.Group>
+  
             <Button variant="primary" onClick={handleAddProduct}>Add Product</Button>
             {successMessage && <p className="success-message">{successMessage}</p>}
           </Form>
